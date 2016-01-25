@@ -1,2 +1,4 @@
-# learn-git
+﻿# learn-git
 õpin
+
+ma teen siia omad muudatused
